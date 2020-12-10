@@ -1,0 +1,15 @@
+// el valle 10-12-2020
+// joaquin Zorrilla - 29706517
+// programación 1 - examen
+// silvestre Cárdenas
+// pregunta 2
+
+program pregunta_2;
+uses crt;
+begin
+clrscr;
+      writeln ('¿ QUE RETORNA LA FUNCION EOF DE PASCAL?');
+      writeln;
+      writeln('EOF es una funcion que devuelve verdadero cuando el puntero del archivo esta al final de un archivo EOF significa End Of File (Fin de Archivo).Es una funcion muy util cuando se hacen busquedas lineales en un archivo y suele usarse con un while ( while not eof ( archivo ) )');
+      readln;
+      end.
